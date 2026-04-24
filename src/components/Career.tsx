@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Information Technology</h4>
+                <h5>Uka Tarsadia University</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021-2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Bachelor's Degree in Information Technology with CGPA: 7.8. Gained strong foundation in programming, databases, and software development principles.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Online Shopping Cart Project</h4>
+                <h5>Python Developer</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed a full-featured online shopping cart system with Python, HTML, and SQL. Features include product browsing, add/remove/update items, cart calculations with discounts, user authentication system, and checkout functionality.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>PMS & Kiosk System</h4>
+                <h5>Backend Developer</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Built Hotel Property Management System (PMS) backend with Python, AWS Lambda, and PostgreSQL. Developed RESTful APIs for users, hotels, bookings, and payments. Implemented role-based access control, guest check-in/check-out system, booking dashboard, and Apple VoIP Push Notifications.
             </p>
           </div>
         </div>
