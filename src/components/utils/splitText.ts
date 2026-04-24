@@ -1,10 +1,6 @@
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-interface ParaElement extends HTMLElement {
-  anim?: gsap.core.Animation;
-}
-
 gsap.registerPlugin(ScrollTrigger);
 
 export default function setSplitText() {
